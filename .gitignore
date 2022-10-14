@@ -36,3 +36,6 @@ build/
 
 # VsCode Temp Folder
 .vscode/
+
+# Clang Cache
+.cache/
